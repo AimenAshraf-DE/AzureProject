@@ -337,10 +337,7 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [],
-				"typeProperties": {
-					"method": "POST"
-				}
+				"userProperties": []
 			}
 		],
 		"parameters": {

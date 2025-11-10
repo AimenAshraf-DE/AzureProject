@@ -323,6 +323,9 @@
 				"type": "String"
 			}
 		},
+		"folder": {
+			"name": "PROD PIPELINE"
+		},
 		"annotations": []
 	}
 }
